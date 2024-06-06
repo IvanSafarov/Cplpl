@@ -1,0 +1,13 @@
+﻿  Box.cpp
+  Container.cpp
+D:\VisualStudio\ЗАДАНИЕ0\Container.h(39,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Container.cpp")
+  
+D:\VisualStudio\ЗАДАНИЕ0\Container.cpp(19,21): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VisualStudio\ЗАДАНИЕ0\Container.cpp(27,18): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  задача 0.cpp
+D:\VisualStudio\ЗАДАНИЕ0\Container.h(39,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "задача 0.cpp")
+  
+  Создание кода...
+  ЗАДАНИЕ0.vcxproj -> D:\VisualStudio\ЗАДАНИЕ0\x64\Debug\ЗАДАНИЕ0.exe
